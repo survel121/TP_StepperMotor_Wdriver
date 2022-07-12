@@ -1,0 +1,5 @@
+Ceci est un code issu de la vidéo suivante :
+https://youtu.be/I0QCPvJAUZY
+
+Il s'agit du programme qui permet de faire une rotation complete de l'arbre d'un moteur pas à pas avec un Driver (sur Arduino)
+(c'est pas une description très utile mais ça me semblait nécessaire)
